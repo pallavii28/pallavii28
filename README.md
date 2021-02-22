@@ -23,9 +23,11 @@
 <br>
 <p>
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/pallavi-rawat/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/pallavi-rawat/" height="30" width="40" /></a>
+<p align="center">
+<a href="https://twitter.com/pallavii_28" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="pallavii_28" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/pallavi-rawat/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="pallavi-rawat" height="30" width="40" /></a>
 <a href="https://instagram.com/pallavii_28" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="pallavii_28" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/pallavirawat1509" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="pallavirawat1509" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
