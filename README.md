@@ -36,3 +36,8 @@
 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pallavii28&" alt="pallavii28" /></p>
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pallavii28&langs_count=7&layout=compact&theme=onedark" alt="pallavii28">
+
+</p>
+
