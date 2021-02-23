@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pallavi Rawat</h1>
 <h3 align="center">A passionate Web developer from India</h3>
 
-- 🔭 I’m currently working on **Python**
+- 🔭 I’m currently working on **Web development**
 
 - 🌱 I’m currently learning **Python,Machine Learning**
 
