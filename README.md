@@ -12,7 +12,9 @@
 - 📄 Know about my experiences [https://www.linkedin.com/in/pallavi-rawat/](https://www.linkedin.com/in/pallavi-rawat/)
 
 
-
+<p><img align="right" src="https://komarev.com/ghpvc/?username=pallavii28&label=Profile%20views&color=0e75b6&style=flat" alt="pallavii28" width="100" /><a href="https://twitter.com/pallavii_28" target="blank"><img align="right" src="https://img.shields.io/twitter/follow/pallavii_28?logo=twitter&style=flat" alt="pallavii_28" /></a></p><br>
+<!-- for-the-badge -->
+<a href="https://www.linkedin.com/in/pallavi-rawat/ target="blank"><img align="right" src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="pallavirawat" /></a>
 ![Pallavi's github stats](https://github-readme-stats.vercel.app/api?username=pallavii28&hide=issues&show_icons=true&theme=onedark)
 <br>
 <p>
