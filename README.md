@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Pallavi Rawat</h1>
 <h3 align="center">A passionate Web developer from India</h3>
 
-- 🔭 I’m currently working on **Web development**
+- 🔭 I’m currently working on **Java Backend**
 
-- 🌱 I’m currently learning **React.js**
+- 🌱 I’m currently learning **Spring boot**
 
 - 👨‍💻 All of my projects are available at [https://github.com/pallavii28](https://github.com/pallavii28?tab=repositories)
 
